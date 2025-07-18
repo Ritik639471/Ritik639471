@@ -65,7 +65,8 @@ Inspired by Slack/Discord – a responsive, user-friendly chat app.
 ## 📫 Contact
 
 **[Email:](ritikmaurya639471@gmail.com)**   
-**[LinkedIn:(https://www.linkedin.com/in/ritik-maurya-736b3b324)**
+**[LinkedIn:](https://www.linkedin.com/in/ritik-maurya-736b3b324)**
+
 **[GitHub:](https://github.com/Ritik639471/)**
 
 ---
