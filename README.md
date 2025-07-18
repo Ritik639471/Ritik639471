@@ -6,9 +6,9 @@ Hi! I'm **Ritik Maurya**, a B.Tech student in Electrical Engineering at NIT Durg
 
 ## 🎯 Achievements
 
-- 🥉 **3-Star at [CodeChef](https://www.codechef.com/users/ritik)** (Rating 1600+)
-- ⚔️ **Pupil at [Codeforces](https://codeforces.com/profile/ritik)** (Rating 1200+)
-- 🟤 **Brown Coder at [AtCoder](https://atcoder.jp/users/ritik)** (Rating 400+)
+- 🥉 **3-Star at [CodeChef](https://www.codechef.com/users/ritikmaurya_63)** (Rating 1600+)
+- ⚔️ **Pupil at [Codeforces](https://codeforces.com/profile/ritikmaurya639471)** (Rating 1200+)
+- 🟤 **Brown Coder at [AtCoder](https://atcoder.jp/users/ritikmaurya)** (Rating 400+)
 - 📈 **JEE Mains 2023:** 97.66 percentile (out of 12 lakh+ students)
 - 🎓 **Reliance Foundation Scholar** (UG)
 
@@ -28,7 +28,7 @@ Hi! I'm **Ritik Maurya**, a B.Tech student in Electrical Engineering at NIT Durg
 
 ## 🚀 Projects
 
-### 🔹 [Real-Time Multi-Room Chat WebApp](#)
+### 🔹 [Real-Time Multi-Room Chat WebApp](https://github.com/Ritik639471/RM-chat-app)
 **Tech Stack:** HTML, CSS, JavaScript, Firebase  
 Inspired by Slack/Discord – a responsive, user-friendly chat app.
 
@@ -39,7 +39,7 @@ Inspired by Slack/Discord – a responsive, user-friendly chat app.
 
 ---
 
-### 🔹 [Movie Info App](#)
+### 🔹 [Movie Info App](https://github.com/Ritik639471/RM_Movies)
 **Tech Stack:** React, TMDB API, Firebase
 
 #### Features:
