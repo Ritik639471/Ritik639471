@@ -100,7 +100,7 @@ I'm **Ritik Maurya**, a B.Tech student in **Electrical Engineering at NIT Durgap
 
 ---
 
-### 🎬 [RM Movies — Full-Stack Movie Discovery App](https://github.com/Ritik639471/RM_Movies)
+### 🎬 [CineVault — Full-Stack Movie Discovery App](https://github.com/Ritik639471/CineVault)
 
 > A feature-rich MERN stack movie app powered by the **TMDB API**, with personalized watchlists, reviews & trailer playback.
 
